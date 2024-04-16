@@ -1,13 +1,13 @@
-## Hi there 👋
+## Selamat Datang Vihara Daxin 👋
 
 
 ## Documentation
 
 Web daxin memiliki fitur yang paling luas dan menyeluruh [Panduan](https://github.com/daxinfotang/panduan), sehingga sangat mudah untuk memulai dengan panduan yang ada.
 
-- [Untuk Umat](https://github.com/daxinfotang/panduan?tab=readme-ov-file#how-to-registeration)
-- [Untuk Admin](https://github.com/daxinfotang/panduan/blob/main/README.md#how-to-create-users)
-- [Untuk Umum](https://github.com/daxinfotang/panduan/blob/main/README.md#how-to-registeration-1)
+- [Untuk Umat](https://github.com/daxinfotang#how-to-registeration)
+- [Untuk Admin](https://github.com/daxinfotang#how-to-create-users)
+- [Untuk Umum](https://github.com/daxinfotang#how-to-registeration-1)
 
 ## Features
 
